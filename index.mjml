@@ -1,0 +1,73 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text padding="0" />
+      <mj-class name="color-principal" background-color="#ff8200" />
+      <mj-class name="color-secondary" background-color="#71878e" />
+      <mj-class name="font-principal" font-family="Lato" />  <!--Títulos, cabeçalhos, destaques. Todo 
+conteúdo que não for texto corrido-->
+      <mj-class name="font-secondary" font-family="Raleway"/> <!--Texto 
+corrido, incluindo itens numerados, 
+marcadores, tabela, box, legendas. -->
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#fff" color="#000" font-family="Lato, sans-serif">
+  <!-- Header -->
+    <mj-section background-color="#ff8200" background-repeat="no-repeat" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image width="500px" src="./assets/img/web_5_120dpi_rgb__500px.png"></mj-image>
+      </mj-column>
+    </mj-section>
+
+     <mj-section>
+      <mj-column width="450px" background-color="#fff">
+        <mj-body>
+          <mj-section>
+                  
+          </mj-section>
+          <mj-section>
+            
+          </mj-section>
+          <mj-section>
+            
+          </mj-section>
+          <mj-section>
+
+          </mj-section>
+        </mj-body>
+      </mj-column>
+
+
+      <mj-column width="150px" background-color="#ff3">
+      </mj-column>
+
+    </mj-section>
+
+
+    <mj-section>
+      <mj-column>
+      </mj-column>      
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ff8200" padding-bottom="20px" padding-top="0">
+      <mj-column>
+        <mj-image src="./assets/img/web_7_120dpi_rgb__125px.png" alt="Filantropia logo" align="center" border="none" width="180px" padding-left="50px" padding-right="0px" padding-bottom="0px" padding-top="10px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="center" color="#fff" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p><a href="" style="text-decoration: none; color: inherit;">Privacy policy</a></p>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-social padding-top="20px">
+          <mj-social-element name="facebook" href="https://web.facebook.com/RedeFilantropia/?_rdc=1&_rdr"></mj-social-element>
+          <mj-social-element name="youtube" href="https://www.youtube.com/channel/UCpBCUNl03UA5seXatd0-fkQ"></mj-social-element>
+          <mj-social-element name="instagram" background-color="#9000A2" href="https://www.instagram.com/redefilantropia/"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
