@@ -107,49 +107,49 @@ marcadores, tabela, box, legendas. -->
       </mj-column>
     </mj-section>
 
-    <mj-section mj-class="color-principal" padding="0 20px">
+    <mj-section mj-class="color-principal" padding="0 20px 20px">
       <mj-column width="50%" padding="0 20px" vertical-align="top">
-        <mj-text font-size="14px" line-height="20px">
+        <mj-text height="60px" font-size="14px" line-height="20px"  vertical-align="top">
           <p><strong>9ª Edição do Prêmio Luiz de Castro Faria - 2021</strong><br>27 até 16 fev</p>
         </mj-text>
-        <mj-text font-size="14px" line-height="20px">
+        <mj-text height="60px" font-size="14px" line-height="20px"  vertical-align="top">
           <p><strong>Gratitude Network Fellowship Program 2022
             </strong><br>20 até 20 fev</p>
         </mj-text>
-        <mj-text font-size="14px" line-height="20px">
+        <mj-text height="60px" font-size="14px" line-height="20px"  vertical-align="top">
           <p><strong>Prêmio Kindle de Literatura
             </strong><br>15 até 20 fev</p>
         </mj-text>
-        <mj-text font-size="14px" line-height="20px">
+        <mj-text height="60px" font-size="14px" line-height="20px"  vertical-align="top">
           <p><strong>Programa Jardim Imaginário 2021/2022</strong><br>20 até 20 fev</p>
         </mj-text>
-        <mj-text font-size="14px" line-height="20px" vertical-align="top">
+        <mj-text height="60px" font-size="14px" line-height="20px" vertical-align="top">
           <p><strong>Incident Emergency Fund</strong><br>Continuo</p>
         </mj-text>
       </mj-column>
 
-      <mj-column width="50%" padding="0 20px" vertical-align="top">
-        <mj-text font-size="14px" line-height="20px">
+      <mj-column width="50%" padding="0 20px 20px" vertical-align="top">
+        <mj-text height="60px" font-size="14px" line-height="20px"  vertical-align="top">
           <p><strong>Resgatando a História</strong><br>31 até 16 fev</p>
         </mj-text>
-        <mj-text font-size="14px" line-height="20px">
+        <mj-text height="60px" font-size="14px" line-height="20px"  vertical-align="top">
           <p><strong>Recursos de Penas Pecuniárias - Tiros
             </strong><br>9 até 21 fev</p>
         </mj-text>
-        <mj-text font-size="14px" line-height="20px">
+        <mj-text height="60px" font-size="14px" line-height="20px"  vertical-align="top">
           <p><strong>Starling Collective</strong><br>1 fev até 22 mar</p>
         </mj-text>
-        <mj-text font-size="14px" line-height="20px">
+        <mj-text height="60px" font-size="14px" line-height="20px"  vertical-align="top">
           <p><strong>Rapid Response Window - Short-Term Grants</strong><br>Continuo</p>
         </mj-text>
-        <mj-text font-size="14px" line-height="20px">
+        <mj-text height="60px" font-size="14px" line-height="20px"  vertical-align="top">
           <p><strong>Prêmios Professor Samuel Benchimol e Banco da Amazônia de Empreendedorismo Consciente</strong><br>19 fev até 8 mar</p>
         </mj-text>
       </mj-column>
     </mj-section>
 
     <!-- FOOTER -->
-    <mj-section mj-class="color-secondary" padding-bottom="20px" padding-top="0">
+    <mj-section mj-class="color-secondary" padding-bottom="20px" padding-top="0px">
       <mj-column>
         <mj-image src="https://github.com/Drlazinho/mjml-newsletter-filantropo/blob/master/assets/img/web_7_120dpi_rgb__125px.png?raw=true" alt="Filantropo logo" align="center" border="none" width="180px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="10px"></mj-image>
       </mj-column>
