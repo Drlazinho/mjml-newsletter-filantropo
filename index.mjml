@@ -9,12 +9,6 @@
     </mj-attributes>
 
     <mj-style>
-      @media(min-width:480px) {
-        .mobile {
-          padding: 0 20px 0 0 !important;
-        }
-      }
-
       @media(min-width: 480px) {
         .desktop {
            padding: 0 40px 0 0 !important;
@@ -23,16 +17,16 @@
           padding: 0 20px 0px 0px !important;
         }
         .desktop-img-materia-left{
-          padding: 0 20px 2px 0 !important;
+          padding: 0 20px 0 0 !important;
         }
         .desktop-text-materia-left{
-          padding: 0 10px 0 0 !important;
+          padding: 5px 10px 0 0 !important;
         }
         .desktop-img-materia-right{
-          padding: 0 20px 2px 0 !important;
+          padding: 0 20px 0 0 !important;
         }
         .desktop-text-materia-right{
-          padding: 0 15px 0 0 !important;
+          padding: 5px 15px 0 0 !important;
         }
         .padding-extra{
           /*Padding do ultimo item da lista do Curso*/
@@ -72,7 +66,7 @@
             <!-- Materia Esquerda -->
             <mj-column width="210px" padding="0">
               <mj-image css-class="desktop-img-materia-left" padding="0 10px 2px" src="https://github.com/Drlazinho/mjml-newsletter-filantropo/blob/master/assets/img/projeto-elas-prosperam-vai-acelerar-negocios-de-microempreendedoras-negras9462.jpeg?raw=true" alt="Uma mulher negra trabalhando em um projeto de negócio" />
-              <mj-text css-class="desktop-text-materia-left" line-height="14px" padding="0 20px" align="left" font-family="Lato">
+              <mj-text css-class="desktop-text-materia-left" line-height="14px" padding="0 20px 20px 20px" align="left" font-family="Lato">
                 <h3 style="color:#ff8200; font-size:17px;">Projeto “Elas Prosperam” vai acelerar negócios de microempreendedoras negras</h3>
                 <p style="font-family: 'Raleway'; color:#71878e">Iniciativa da Rede Mulher Empreendedora vai oferecer curso de capacitação para 200 microempreendedoras negras. As inscrições terminam em 14 de março.<br><a class="text-link" href="https://google.com">Leia Mais.</a>
                 </p>
@@ -81,7 +75,7 @@
             <!-- Materia Direita -->
             <mj-column width="210px" padding="0">
               <mj-image css-class="desktop-img-materia-right" padding="0 10px 2px" src="https://github.com/Drlazinho/mjml-newsletter-filantropo/blob/master/assets/img/reconhecimento-de-pejotizacao-abre-caminho-para-contratacao-de-medicos-no-terceiro-setor9456.jpeg?raw=true" alt="Um médico examinando uma paciente" />
-              <mj-text css-class="desktop-text-materia-right"  line-height="14px" padding="0 20px" align="left" font-family="Lato">
+              <mj-text css-class="desktop-text-materia-right"  line-height="14px" padding="0 20px 20px 20px" align="left" font-family="Lato">
                 <h3 style="color:#ff8200; font-size:17px;">Reconhecimento de “pejotização” abre caminho para contratação de médicos no Terceiro Setor</h3>
                 <p style="font-family: 'Raleway'; color:#71878e">STF decidiu que contratação de colaboradores por meio de empresas das quais eles mesmos são os donos, não burla a legislação trabalhista<br><a class="text-link" href="https://google.com">Leia Mais.</a>
                 </p>
@@ -93,7 +87,7 @@
             <!-- Materia Esquerda -->
             <mj-column width="210px" padding-top="0">
               <mj-image css-class="desktop-img-materia-left" padding="0 10px 2px" src="https://github.com/Drlazinho/mjml-newsletter-filantropo/blob/master/assets/img/gestores-do-terceiro-setor-terao-curso-sobre-revisao-de-estatuto-social-e-forum-lgpd-para-entender-e-debater-adaptacao-a-lei9444.jpeg?raw=true" alt="Uma imagem representantiva relacioanada a gestão envolta das leis de segurança e proteção de dados" />
-              <mj-text css-class="desktop-text-materia-left" line-height="14px" padding="0 20px" align="left" font-family="Lato">
+              <mj-text css-class="desktop-text-materia-left" line-height="14px" padding="0 20px 20px 20px" align="left" font-family="Lato">
                 <h3 style="color:#ff8200; font-size:17px;">Gestores do Terceiro Setor terão curso sobre revisão de estatuto social e Fórum LGPD para entender e debater adaptação à lei</h3>
                 <p style="font-family: 'Raleway'; color:#71878e">Rede Filantropia promoverá os dois eventos nos dias 22 e 23 de março, a fim de dar uma visão geral sobre os temas, difundindo conhecimentos essenciais para quem atua (com e nas) organizações sociais.<br><a class="text-link" href="https://google.com">Leia Mais.</a>
                 </p>
@@ -102,7 +96,7 @@
             <!-- Materia Direita -->
             <mj-column width="210px" padding-top="0">
               <mj-image css-class="desktop-img-materia-right" padding="0 10px 2px" src="https://github.com/Drlazinho/mjml-newsletter-filantropo/blob/master/assets/img/fundo-casa-apoiara-projetos-com-foco-em-organizacoes-comunitarias-nordestinas9438.jpeg?raw=true" alt="Foto de uma árvore seca no meio do nordeste" />
-              <mj-text css-class="desktop-text-materia-right" line-height="14px" padding="0 20px" align="left" font-family="Lato">
+              <mj-text css-class="desktop-text-materia-right" line-height="14px" padding="0 20px 20px 20px" align="left" font-family="Lato">
                 <h3 style="color:#ff8200; font-size:17px;">Fundo Casa apoiará projetos com foco em organizações comunitárias nordestinas</h3>
                 <p style="font-family: 'Raleway'; color:#71878e">Cada uma das duas chamadas apoiará 15 projetos. Inscrições vão até 10 de março.<br><a class="text-link" href="https://google.com">Leia Mais.</a>
                 </p>
